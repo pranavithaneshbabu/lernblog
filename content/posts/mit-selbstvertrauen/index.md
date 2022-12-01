@@ -44,9 +44,9 @@ Die Ursachen von Brustkrebs sind zurzeit noch unbekannt. Doch es gibt bestimmte 
 
 > *Florence Schneider*
 
-{{</*box*/>}}
+{{<*box*>}}
 Florence Schneider hat 2017 erfolgreich gegen Brustkrebs gekämpft. Sie hat zwei Kinder und ist verheiratet. Der Moment, als sie die Diagnose bekam, war für sie schrecklich. «Die Nachricht kam wie aus heiterem Himmel, so was kann jeden Tag passieren», sagt sie. «Deshalb können wir nicht immer Angst haben, das bringt uns nicht weiter. Und wir sollten das Leben geniessen, weil es viel zu kurz ist.» Mit diesen positiven Gedanken geht sie heute durchs Leben. Ihr Ehemann hat sie in dieser schweren Zeit stets unterstützt und war sozusagen ihr Sparringpartner. Sie wollten die Kinder erst informieren, als sie über das weitere Vorgehen der Therapie Bescheid wussten. Im Sommer 2022 bestätigt der Onkologe in einer Nachkontrolle nach fünf Jahren, dass sich der Brustkrebs zurückgezogen hat. Daher ist das Risiko eines Rückfalls sehr klein. «Man sollte stets mit positiven Gedanken dieser Krankheit trotzen und kämpfen, kämpfen und kämpfen!».
-{{</*/box*/>}}
+{{</*box*>}}
 
 Die Kosmetikerinnen begrüssen die Brustkrebspatientinnen und zeigen Schritt für Schritt, wie man das Gesicht am besten pflegen kann. Dabei erklären sie, dass es durch eine liebevolle Körper- und Schönheitspflege helfen kann, sich schrittweise in der eigenen Haut wohler zu fühlen. Die Hautpflege ist auch wichtig, weil durch die Chemotherapie die Haut etwas gereizt oder trocken ist. Nebenbei verstopfen die Medikamente die Haut und deshalb ist eine Gesichtspflege morgens wichtig. 
 
