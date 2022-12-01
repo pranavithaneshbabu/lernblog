@@ -61,8 +61,8 @@ Florence Schneider erzählt uns, dass sie nach ein paar Tagen der ersten Behandl
 
 Die Chemotherapie wird in mehreren Zyklen verabreicht. Über einen Portkatheter wird ein Zugang in die Vene gelegt, über den die Infusion mit dem Medikament direkt in den Körper gelangt. Der Portkatheter bleibt während der gesamten Zeit an der gleichen Stelle, sodass die Vene während der verschiedenen Zyklen nicht immer wieder neu gestochen werden muss. Während diesen Zyklen überwacht man immer wieder, ob sich das Karzinom zurückbildet. Zwischen diesen Zyklen ist eine Pause sehr wichtig, damit sich die gesunden Zellen des Körpers von dem Medikament erholen können. In diesen Pausen fühlen sich die Patienten/Patientinnen relativ gut. Florence Schneider konnte dann jeweils normal arbeiten gehen. Die Patienten werden während einer solchen Therapie regelmäßig überwacht. Damit, zum Beispiel bei einer allergischen Reaktion Ärzte und Ärztinnen schnell handeln können.
 
-> ### «Als ich in den Spiegel schaute, musste ich sagen, so schlimm ist es gar nicht.»
->
+### «Als ich in den Spiegel schaute, musste ich sagen, so schlimm ist es gar nicht.»
+
 > *Florence Schneider*
 
 Nach dem Abschminken und der Gesichtsreinigung beginnt das Schminken. Die Kursleiterinnen erklären, welches Produkt man wofür verwendet. Die Teilnehmerinnen nehmen das Produkt und verwenden es, wie es vorgezeigt wurde. Sehr einfühlsam kümmern sich die Kosmetikerinnen und gehen individuell sowie sehr persönlich auf die Kursteilnehmerinnen ein.
