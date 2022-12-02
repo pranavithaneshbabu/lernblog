@@ -3,6 +3,7 @@ title = "Mit Selbstvertrauen  gegen Brustkrebs kämpfen"
 date = "2022-12-01"
 draft = false
 pinned = false
+image = "sonnenuntergang.jpg"
 description = ""
 +++
 {{<lead>}}
