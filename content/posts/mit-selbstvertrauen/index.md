@@ -7,7 +7,7 @@ image = "sonnenuntergang.jpg"
 description = ""
 +++
 {{<lead>}}
-Die Schönheit bei Brustkrebs ist das Überleben. Doch durch die körperlichen Veränderungen wird die Weiblichkeit auf eine harte Probe gestellt. 
+Die Schönheit bei Brustkrebs ist das Überleben. Doch durch die körperlichen Veränderungen wird die Weiblichkeit auf eine harte Probe gestellt. Eine Reportage von Josephine und Pranavi.
 {{</lead>}}
 
 Ein Knoten in der weiblichen Brust sorgt für Panik. Brustkrebs ist die häufigste Krebskrankheit bei Frauen und sollte schnellstmöglich behandelt werden. Die Krankheit schwächt nicht nur den Körper oder verursacht Nebenwirkungen, sondern kann das Selbstbild einer Frau einschränken. 
