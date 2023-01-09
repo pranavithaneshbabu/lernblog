@@ -5,7 +5,7 @@ draft = true
 pinned = false
 tags = ["französisch", "lektüre", "francophonie"]
 +++
-Dans ce blog, nous avons écrit sur le livre "un aller simple"
+Dans ce blog, nous avons écrit sur le livre "un aller simple".
 
 **Auteur**
 L’auteur de ce livre est Didier van Cauwelaert. 
