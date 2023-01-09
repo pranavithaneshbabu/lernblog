@@ -18,7 +18,11 @@ L’auteur de ce livre est Didier van Cauwelaert.
 •	Ses livres ont déjà été traduits dans plus de 20 langues
 
 **Résume**
-Le roman parle d'Aziz, qui a grandi chez des gitans dans les quartiers nord de Marseille, a perdu ses parents dans un accident de voiture dont un gitan est responsable, et dont les véritables origines restent un mystère. Le jour de ses fiançailles, il est "identifié" comme un immigré marocain clandestin en raison de ses faux papiers et de son teint foncé. Les autorités veulent l'expulser vers son pays d'origine. Dans le cadre d'une campagne médiatique visant à convaincre l'opinion publique du caractère humanitaire de l'expulsion, un "attaché humanitaire", un agent d'intégration, est désigné pour accompagner Aziz et l'aider à se réinsérer dans son "pays d'origine". Les circonstances deviennent de plus en plus instables et finissent par se dégrader au point qu'Aziz doit s'occuper de l'"attaché humanitaire", qui devient de plus en plus le personnage principal.
+Le roman parle d'Aziz, qui a grandi chez des gitans dans les quartiers nord de Marseille. Il a perdu ses parents dans un accident de voiture dont un gitan est responsable, et dont les véritables origines restent un mystère. 
+Le jour de ses fiançailles, il aurait volé son cadeau de mariage. Ayant de faux papiers et la peau foncée, il est "identifié" comme un immigrant marocain clandestin. Les autorités veulent l'expulser dans son pays d'origine. 
+Pour convaincre l'opinion publique, un "attaché humanitaire", un agent d'intégration, a été désigné pour aider Aziz à se réintégrer dans son "pays natal". 
+La situation devient de plus en plus instable et s'aggrave au point qu'Aziz doit s'occuper de « l'attaché humanitaire », qui devient de plus en plus le personnage principal.
+
 
 **Citation**
 
