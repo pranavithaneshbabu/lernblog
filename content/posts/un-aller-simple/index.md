@@ -18,11 +18,13 @@ L’auteur de ce livre est Didier van Cauwelaert.
 •	Ses livres ont déjà été traduits dans plus de 20 langues
 
 **Résume**
-Le roman parle d'Aziz, qui a grandi chez des gitans dans les quartiers nord de Marseille. Il a perdu ses parents dans un accident de voiture dont un gitan est responsable, et dont les véritables origines restent un mystère. 
-Le jour de ses fiançailles, il aurait volé son cadeau de mariage. Ayant de faux papiers et la peau foncée, il est "identifié" comme un immigrant marocain clandestin. Les autorités veulent l'expulser dans son pays d'origine. 
-Pour convaincre l'opinion publique, un "attaché humanitaire", un agent d'intégration, a été désigné pour aider Aziz à se réintégrer dans son "pays natal". 
-La situation devient de plus en plus instable et s'aggrave au point qu'Aziz doit s'occuper de « l'attaché humanitaire », qui devient de plus en plus le personnage principal.
+Le roman raconte l'histoire d'Aziz, qui a grandi avec des gitans dans les quartiers nord de Marseille. Il a perdu ses parents dans un accident de voiture, c'est pourquoi les véritables origines d'Aziz restent un mystère.  
 
+Le jour de ses fiançailles, on dit qu'il a volé son cadeau de mariage. Comme il a de faux papiers et qu'il a la peau noire, il est "identifié" comme un immigrant marocain illégal. Les autorités veulent l'expulser vers son pays d'origine.  
+
+Pour convaincre l'opinion publique, un "attaché humanitaire", un agent d'intégration, a été nommé pour aider Aziz à se réintégrer dans son "pays d'origine". La situation devient de plus en plus instable et se dégrade à tel point qu'Aziz doit s'occuper de l'"attaché humanitaire", qui devient de plus en plus le personnage principal.  
+
+La situation devient de plus en plus instable et se dégrade à tel point qu'Aziz doit s'occuper de "l'attaché humanitaire" qui devient de plus en plus le personnage principal. 
 
 **Citation**
 
@@ -42,3 +44,5 @@ Le livre "un aller simple" traite d'un sujet d'actualité. Aziz, le personnage p
 >
 > \-P.75
 
+**Avis** 
+C'est un livre intéressant qui trait te de sujets d'actualité. Le texte est compréhensible et bien écrit. Il n'est pas nécessaire de parler un français avancé pour comprendre le texte. Dans le livre, les mots difficiles sont traduits. Le livre a des personnages bien écrits. On comprend leurs points de vue, leurs problèmes et on peut éprouver de l'empathie pour eux.
