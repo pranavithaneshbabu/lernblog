@@ -13,6 +13,7 @@ Dans ce blog, nous avons écrit sur le livre "un aller simple".
 {{</lead>}}
 
 **Auteur**
+
 L’auteur de ce livre est Didier van Cauwelaert. 
 •	Il est né à Nice en 1960.
 •	Il a commencé à écrire à l'âge de 9 ans.
@@ -25,6 +26,7 @@ L’auteur de ce livre est Didier van Cauwelaert.
 
 
 **Résume**
+
 Le roman raconte l'histoire d'Aziz, qui a grandi avec des gitans dans les quartiers nord de Marseille. Il a perdu ses parents dans un accident de voiture, c'est pourquoi les véritables origines d'Aziz restent un mystère.  
 
 Le jour de ses fiançailles, on dit qu'il a volé son cadeau de mariage. Comme il a de faux papiers et qu'il a la peau noire, il est "identifié" comme un immigrant marocain illégal. Les autorités veulent l'expulser vers son pays d'origine.  
@@ -58,4 +60,5 @@ Le livre "un aller simple" traite d'un sujet d'actualité. Aziz, le personnage p
 
 
 **Avis** 
+
 C'est un livre intéressant qui trait te de sujets d'actualité. Le texte est compréhensible et bien écrit. Il n'est pas nécessaire de parler un français avancé pour comprendre le texte. Dans le livre, les mots difficiles sont traduits. Le livre a des personnages bien écrits. On comprend leurs points de vue, leurs problèmes et on peut éprouver de l'empathie pour eux.
