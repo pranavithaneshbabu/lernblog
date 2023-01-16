@@ -4,6 +4,7 @@ date = "2023-01-09"
 draft = true
 pinned = false
 tags = ["französisch", "lektüre", "francophonie"]
+image = "https://www.bing.com/images/search?view=detailV2&ccid=XoX4X%2ffL&id=20CDDC9D0B544CF43C7A22896C93BB9222838637&thid=OIP.XoX4X_fLvT8PC3ahxzSI9AHaLb&mediaurl=https%3a%2f%2fweltbild.scene7.com%2fasset%2fvgw%2fun-aller-simple-071911821.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.5e85f85ff7cbbd3f0f0b76a1c73488f4%3frik%3dN4aDIpK7k2yJIg%26pid%3dImgRaw%26r%3d0&exph=1234&expw=800&q=un+aller+simple&simid=608042094083981108&FORM=IRPRST&ck=0131935F98A6F113463B082FB1D270EB&selectedIndex=2&ajaxhist=0&ajaxserp=0"
 +++
 ## Un aller simple
 
