@@ -5,7 +5,7 @@ draft = true
 pinned = false
 tags = ["französisch", "lektüre", "francophonie"]
 +++
-Dans ce blog, nous avons écrit sur le livre "un aller simple".
+*Dans ce blog, nous avons écrit sur le livre "un aller simple".*
 
 **Auteur**
 L’auteur de ce livre est Didier van Cauwelaert. 
@@ -17,6 +17,8 @@ L’auteur de ce livre est Didier van Cauwelaert.
 •	Il avait joué comme acteur dans une pièce de Sartre
 •	Ses livres ont déjà été traduits dans plus de 20 langues
 
+
+
 **Résume**
 Le roman raconte l'histoire d'Aziz, qui a grandi avec des gitans dans les quartiers nord de Marseille. Il a perdu ses parents dans un accident de voiture, c'est pourquoi les véritables origines d'Aziz restent un mystère.  
 
@@ -26,6 +28,8 @@ Pour convaincre l'opinion publique, un "attaché humanitaire", un agent d'intég
 
 La situation devient de plus en plus instable et se dégrade à tel point qu'Aziz doit s'occuper de "l'attaché humanitaire" qui devient de plus en plus le personnage principal. 
 
+
+
 **Citation**
 
 > Alors là, j'ai dit: pardon. Je veux bien être un exemple, mais j'ai fait ma vie comme étranger en France; je ne vais pas la recommencer comme étranger dans un pays où je serai le seul à savoir que je ne suis pas chez moi. 
@@ -33,6 +37,8 @@ La situation devient de plus en plus instable et se dégrade à tel point qu'Azi
 > \-P.43
 
 Le livre "un aller simple" traite d'un sujet d'actualité. Aziz, le personnage principal, n'a pas connaît de ses origines. La difficulté de trouver une identité en tant que migrant. Aziz est expulsé vers un autre pays, car il n'a pas d'autorisation de séjour. A la page 43, lignes 6 à 10, Aziz dit qu'il ne veut pas recommencer en tant qu'étranger dans un autre pays. Les immigrants sont simplement expulsés s'ils n'ont pas de papier officiel de l'endroit où ils ont grandi. Il est difficile pour un étranger de se construire une vie dans un nouveau pays.
+
+
 
 **Extrait**
 
@@ -43,6 +49,8 @@ Le livre "un aller simple" traite d'un sujet d'actualité. Aziz, le personnage p
 > l’autre, et pourtant on se ressemblait. C’était un peu notre revanche. 
 >
 > \-P.75
+
+
 
 **Avis** 
 C'est un livre intéressant qui trait te de sujets d'actualité. Le texte est compréhensible et bien écrit. Il n'est pas nécessaire de parler un français avancé pour comprendre le texte. Dans le livre, les mots difficiles sont traduits. Le livre a des personnages bien écrits. On comprend leurs points de vue, leurs problèmes et on peut éprouver de l'empathie pour eux.
