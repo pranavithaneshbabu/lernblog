@@ -6,7 +6,7 @@ pinned = false
 tags = ["französisch", "lektüre", "francophonie"]
 image = "un-aller-simple-foto.jpg"
 +++
-## Un aller simple
+
 
 {{<lead>}}
 Dans ce blog, nous avons écrit sur le livre "un aller simple".
