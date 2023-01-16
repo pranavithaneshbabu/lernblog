@@ -8,7 +8,9 @@ image = "un-aller-simple-foto.jpg"
 +++
 ## Un aller simple
 
-*Dans ce blog, nous avons écrit sur le livre "un aller simple".*
+{{<lead>}}
+Dans ce blog, nous avons écrit sur le livre "un aller simple".
+{{</lead>}}
 
 **Auteur**
 L’auteur de ce livre est Didier van Cauwelaert. 
